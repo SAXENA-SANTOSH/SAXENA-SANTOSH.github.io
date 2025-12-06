@@ -10,6 +10,10 @@ platforms:
     icon: "fab fa-github"
     link: "https://github.com/SAXENA-SANTOSH"
 
+  - type: Researchgate
+    icon: "fa-brands fa-researchgate"
+    link: 'https://www.researchgate.net/profile/Santosh-Saxena'
+
 
   # - type: Facebook
   #   icon: "fab fa-facebook-square"
