@@ -25,3 +25,5 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+_posts/2000-12-02-helloworld.md
