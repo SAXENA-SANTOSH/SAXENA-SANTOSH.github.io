@@ -27,15 +27,3 @@ print("hellow world")
 name : code block 
 ```
 
-## photos
-<img src = "https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH/blob/main/Images/Data%20Science.jpeg" height = 300 width = 100%><img>
-
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
-<img title="a title" alt="Alt text" src="/images/boo.svg">
-
-[![App Platorm](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png)](https://www.digitalocean.com/products/app-platform)
-
-<p align="center">
-  <img src="https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png" alt="Alt text" width="600"/>
-</p>
