@@ -1,12 +1,3 @@
-# Licensing
-
-- The website template and source code are licensed under the
-  terms in the `LICENSE` file.
-- All original content is © 2025 Santosh Saxena and is protected
-  under the terms of `CONTENT-LICENSE`.
-
-
-
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
